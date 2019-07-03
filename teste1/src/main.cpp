@@ -9,7 +9,7 @@ void setup()
 void loop()
 {
   digitalWrite(BUILTIN_LED, LOW);  //LED DA PLACA ACENDE (ACIONAMENTO COM SINAL LÓGICO INVERSO PARA O PINO 2)
-  delay(1000);                     //INTERVALO DE 1 SEGUNDO
+  delay(9000);                     //INTERVALO DE 1 SEGUNDO
   digitalWrite(BUILTIN_LED, HIGH); //LED DA PLACA APAGA (ACIONAMENTO COM SINAL LÓGICO INVERSO PARA O PINO 2)
   delay(1000);                     //INTERVALO DE 1 SEGUNDO
 }
