@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/joaodematejr/.platformio/penv/bin:/Users/joaodematejr/.platformio/penv:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/joaodematejr/Library/Android/sdk/emulator:/Users/joaodematejr/Library/Android/sdk/tools:/Users/joaodematejr/Library/Android/sdk/tools/bin:/Users/joaodematejr/Library/Android/sdk/platform-tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
